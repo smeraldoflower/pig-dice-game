@@ -5,4 +5,4 @@ Please see the [Original Project Assignment Description](https://github.com/smer
 **NOTE:**
 
 * **The original project files were written in *2016*** for a university course project (Intro to Programming course).
-* There is a minor bug in the **play() method** of the **GameController** class. However, I don't remember what it was at the time of re-uploading this project to github. Please let me know if you are able to find it.
+* There is a minor bug in the **play() method** of the **GameController** class. However, I don't remember what it was at the time of re-uploading this project to GitHub. Please let me know if you are able to find it.
